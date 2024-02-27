@@ -4,7 +4,11 @@
   <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="300" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F72A&center=true&vCenter=true&random=false&width=435&lines=%E2%9A%94%EF%B8%8FHey+hacker%2C+welcome+to+FIA%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F72A&center=true&vCenter=true&random=false&width=435&lines=%E2%9A%94%EF%B8%8FHey+hacker%2C+welcome+to+FIA%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+  
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
