@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi there👋, we are FIA (FPT Information Assurance Club)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="500" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</div>
 
 <!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
