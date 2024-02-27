@@ -1,2 +1,2 @@
 # .github
-Profile page
+ Config files for GitHub FIA profile. 
