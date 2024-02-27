@@ -1,7 +1,7 @@
 ## Hi there👋, we are FIA (FPT Information Assurance Club)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="300" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
